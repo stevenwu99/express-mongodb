@@ -16,6 +16,9 @@
     "express-async-handler": "^1.2.0",
     "mongoose": "^7.4.1"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "devDependencies": {
     "jest": "^29.6.1",
     "jest-sorted": "^1.0.14",
